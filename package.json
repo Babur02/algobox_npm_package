@@ -1,0 +1,15 @@
+{
+  "name": "algobox",
+  "version": "1.0.0",
+  "description": "An npm package that can help you to use famous algo in your coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Babur02/algobox_npm_package.git"
+  },
+  "author": "Babar",
+  "license": "ISC"
+}
